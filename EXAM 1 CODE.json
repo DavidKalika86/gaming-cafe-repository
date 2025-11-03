@@ -1,0 +1,9 @@
+{
+  "host": "ftp.gamingcafenyc.shop",
+  "username": "dkalika@gamingcafenyc.shop",
+  "password": "DavidK123$!",
+  "protocol": "ftp",
+  "port": 21,
+  "remotePath": "/public_html",
+  "uploadOnSave": true
+}
